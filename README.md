@@ -1,1 +1,2 @@
-# Unary_quadratic_equations_test
+只是一个初学者的练习罢了（才不是答应同学写一个解一元二次方程的东西出来呢
+可能有bug，不支持虚数；
